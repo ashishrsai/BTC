@@ -1,0 +1,53 @@
+Waf: Entering directory `/home/ashish/Desktop/BitcoinSimulator/ns-allinone-3.24.1/ns-3.24.1/build/optimized'
+Waf: Leaving directory `/home/ashish/Desktop/BitcoinSimulator/ns-allinone-3.24.1/ns-3.24.1/build/optimized'
+Build commands will be stored in build/optimized/compile_commands.json
+'build' finished successfully (0.992s)
+Value of one is
+Iteration : 1 6 342.6 5.71 1000
+BITCOIN Mode selected
+Node 0 should have at least 700 connections but it has only 15 connections
+Node 1 should have at least 700 connections but it has only 15 connections
+Node 2 should have at least 700 connections but it has only 15 connections
+Node 3 should have at least 700 connections but it has only 15 connections
+Node 4 should have at least 700 connections but it has only 15 connections
+Node 5 should have at least 700 connections but it has only 15 connections
+Node 6 should have at least 700 connections but it has only 15 connections
+Node 7 should have at least 700 connections but it has only 15 connections
+Node 8 should have at least 700 connections but it has only 15 connections
+Node 9 should have at least 700 connections but it has only 15 connections
+Node 10 should have at least 700 connections but it has only 15 connections
+Node 11 should have at least 700 connections but it has only 15 connections
+Node 12 should have at least 700 connections but it has only 15 connections
+Node 13 should have at least 700 connections but it has only 15 connections
+Node 14 should have at least 700 connections but it has only 15 connections
+Node 15 should have at least 700 connections but it has only 15 connections
+
+The nodes connections stats are:
+Average Number of Connections Per Node = -nan
+Average Number of Connections Per Miner = 15
+Connections distribution: 
+1-5: 0(0%)
+5-10: 0(0%)
+10-15: 16(100%)
+15-20: 0(0%)
+20-30: 0(0%)
+30-125: 0(0%)
+125-800: 0(0%)
+The nodes connections were created in 0.420332s.
+The minimum number of connections for each node is 1 and whereas the maximum is 1.
+The nodes were created in 0.00016284s.
+The total number of links is 120 (0.0952001s).
+Internet stack installed in 0.00395679s.
+The Ip addresses have been assigned in 0.00331903s.
+Time/Block = 0.0544105s
+Iteration 1 lasted 40.1407s
+
+Total Blocks = 912
+Stale Blocks = 291 (31.9079%)
+There were 28 successful double-spending attacks.
+Mined Blocks in main blockchain = 199
+Honest Mining Income = 374
+Attacker Income = 199(
+912 291 31.9079 28 199 374 199(-46.7914%)
+
+0.43

@@ -1,0 +1,106 @@
+Waf: Entering directory `/home/ashish/Desktop/BitcoinSimulator/ns-allinone-3.24.1/ns-3.24.1/build/optimized'
+Waf: Leaving directory `/home/ashish/Desktop/BitcoinSimulator/ns-allinone-3.24.1/ns-3.24.1/build/optimized'
+Build commands will be stored in build/optimized/compile_commands.json
+'build' finished successfully (0.372s)
+Value of one is
+Iteration : 1 6 0.6 0.01 1000
+BITCOIN Mode selected
+Node 0 should have at least 700 connections but it has only 15 connections
+Node 1 should have at least 700 connections but it has only 15 connections
+Node 2 should have at least 700 connections but it has only 15 connections
+Node 3 should have at least 700 connections but it has only 15 connections
+Node 4 should have at least 700 connections but it has only 15 connections
+Node 5 should have at least 700 connections but it has only 15 connections
+Node 6 should have at least 700 connections but it has only 15 connections
+Node 7 should have at least 700 connections but it has only 15 connections
+Node 8 should have at least 700 connections but it has only 15 connections
+Node 9 should have at least 700 connections but it has only 15 connections
+Node 10 should have at least 700 connections but it has only 15 connections
+Node 11 should have at least 700 connections but it has only 15 connections
+Node 12 should have at least 700 connections but it has only 15 connections
+Node 13 should have at least 700 connections but it has only 15 connections
+Node 14 should have at least 700 connections but it has only 15 connections
+Node 15 should have at least 700 connections but it has only 15 connections
+
+The nodes connections stats are:
+Average Number of Connections Per Node = -nan
+Average Number of Connections Per Miner = 15
+Connections distribution: 
+1-5: 0(0%)
+5-10: 0(0%)
+10-15: 16(100%)
+15-20: 0(0%)
+20-30: 0(0%)
+30-125: 0(0%)
+125-800: 0(0%)
+The nodes connections were created in 0.176339s.
+The minimum number of connections for each node is 1 and whereas the maximum is 1.
+The nodes were created in 0.000120163s.
+The total number of links is 120 (0.0299389s).
+Internet stack installed in 0.00264001s.
+The Ip addresses have been assigned in 0.00199986s.
+Time/Block = 0.0228371s
+Time/Block = 0.0228282s
+Iteration 1 lasted 21.1009s
+
+Total Blocks = 961
+Stale Blocks = 428 (44.5369%)
+There were 58 successful double-spending attacks.
+Mined Blocks in main blockchain = 413
+Honest Mining Income = 465
+Attacker Income = 413(
+961 428 44.5369 58 413 465 413(-11.1828%)
+
+0.5Waf: Entering directory `/home/ashish/Desktop/BitcoinSimulator/ns-allinone-3.24.1/ns-3.24.1/build/optimized'
+Waf: Leaving directory `/home/ashish/Desktop/BitcoinSimulator/ns-allinone-3.24.1/ns-3.24.1/build/optimized'
+Build commands will be stored in build/optimized/compile_commands.json
+'build' finished successfully (0.677s)
+Value of one is
+Iteration : 1 6 0.6 0.01 1000
+BITCOIN Mode selected
+Node 0 should have at least 700 connections but it has only 15 connections
+Node 1 should have at least 700 connections but it has only 15 connections
+Node 2 should have at least 700 connections but it has only 15 connections
+Node 3 should have at least 700 connections but it has only 15 connections
+Node 4 should have at least 700 connections but it has only 15 connections
+Node 5 should have at least 700 connections but it has only 15 connections
+Node 6 should have at least 700 connections but it has only 15 connections
+Node 7 should have at least 700 connections but it has only 15 connections
+Node 8 should have at least 700 connections but it has only 15 connections
+Node 9 should have at least 700 connections but it has only 15 connections
+Node 10 should have at least 700 connections but it has only 15 connections
+Node 11 should have at least 700 connections but it has only 15 connections
+Node 12 should have at least 700 connections but it has only 15 connections
+Node 13 should have at least 700 connections but it has only 15 connections
+Node 14 should have at least 700 connections but it has only 15 connections
+Node 15 should have at least 700 connections but it has only 15 connections
+
+The nodes connections stats are:
+Average Number of Connections Per Node = -nan
+Average Number of Connections Per Miner = 15
+Connections distribution: 
+1-5: 0(0%)
+5-10: 0(0%)
+10-15: 16(100%)
+15-20: 0(0%)
+20-30: 0(0%)
+30-125: 0(0%)
+125-800: 0(0%)
+The nodes connections were created in 0.255017s.
+The minimum number of connections for each node is 1 and whereas the maximum is 1.
+The nodes were created in 0.000154972s.
+The total number of links is 120 (0.0487218s).
+Internet stack installed in 0.00387096s.
+The Ip addresses have been assigned in 0.00305295s.
+Time/Block = 0.0324946s
+Iteration 1 lasted 30.9185s
+
+Total Blocks = 984
+Stale Blocks = 457 (46.4431%)
+There were 62 successful double-spending attacks.
+Mined Blocks in main blockchain = 410
+Honest Mining Income = 475
+Attacker Income = 410(
+984 457 46.4431 62 410 475 410(-13.6842%)
+
+0.5

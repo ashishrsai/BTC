@@ -1,0 +1,4 @@
+Waf: Entering directory `/home/ashish/Desktop/BitcoinSimulator/ns-allinone-3.24.1/ns-3.24.1/build/optimized'
+Waf: Leaving directory `/home/ashish/Desktop/BitcoinSimulator/ns-allinone-3.24.1/ns-3.24.1/build/optimized'
+Build commands will be stored in build/optimized/compile_commands.json
+'build' finished successfully (13.416s)
